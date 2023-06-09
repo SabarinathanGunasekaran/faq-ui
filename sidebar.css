@@ -1,0 +1,41 @@
+.NavItem{
+    background-color: black;
+
+}
+
+.NavHead {
+    text-align: center;
+    list-style: none;
+}
+.navone,.navtwo, .navthree, .navfour, .navfive, .navsix, .navseven{
+    /* border: 1px solid black; */
+    margin: 0 1rem;
+    padding: 1rem 2rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    width: 200px;
+    background-color: white;
+}
+.navoneDepth {
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navoneDepthSelected {
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navoneSelected {
+    background: linear-gradient(to right, #00264c, #00b7ff);
+    color: aliceblue;
+
+    /* border: 1px solid black; */
+    margin: 0 1rem;
+    padding: 1rem 2rem;
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    width: 200px;
+}

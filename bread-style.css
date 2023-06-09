@@ -1,0 +1,23 @@
+.heading {
+        background-color: white;
+        /* border: 2px solid black; */
+}
+
+.faq-inline{
+    display: flex;
+    width: fit-content;
+    height:fit-content;
+    margin: 1rem;
+    padding: 0px 1rem;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.099);
+}
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 10px;
+}
+.text2{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+}

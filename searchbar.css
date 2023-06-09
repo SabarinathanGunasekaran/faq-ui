@@ -1,0 +1,31 @@
+.seacrhone{
+height:50px;
+width: 600px;
+margin: 1rem;
+border-radius: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+text-align:left;
+padding-left: 50px;
+position: relative;
+box-shadow: 0rem 5px 12px  rgba(128, 128, 128, 1.199);
+
+}
+.searchicon{
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    z-index: 1;
+    padding: 15px;
+    margin:1rem;
+}
+
+.accordianHead {
+    margin-top: 5%;
+    
+}
+
+.accordianSpace {
+    border: 2px solid black;
+    margin: 1rem 0;
+}
